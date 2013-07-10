@@ -1,0 +1,17 @@
+{
+  "name":           "English Please!",
+  "version":        "0.1",
+  "description":    "Force all google.com services to use English language",
+  "background": {
+    "scripts": ["url.js", "background.js"]
+  },
+  "icons": {
+    "128": "eng128.png"
+  },
+  "permissions":    [
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.google.com/*"
+  ],
+  "manifest_version": 2
+}
