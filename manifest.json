@@ -1,11 +1,13 @@
 {
   "name":             "English Please!",
   "version":          "0.1",
-  "description":      "Force English language in all Google services",
+  "description":      "Force English language in all Google services.",
   "homepage_url":     "https://github.com/spajus/english-please",
   "manifest_version": 2,
 
   "icons": {
+    "16":  "eng16.png",
+    "48":  "eng48.png",
     "128": "eng128.png"
   },
 
