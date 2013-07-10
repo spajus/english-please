@@ -1,17 +1,21 @@
 {
-  "name":           "English Please!",
-  "version":        "0.1",
-  "description":    "Force all google.com services to use English language",
-  "background": {
-    "scripts": ["url.js", "background.js"]
-  },
+  "name":             "English Please!",
+  "version":          "0.1",
+  "description":      "Force English language in all Google services",
+  "homepage_url":     "https://github.com/spajus/english-please",
+  "manifest_version": 2,
+
   "icons": {
     "128": "eng128.png"
   },
+
+  "background": {
+    "scripts": ["url.js", "background.js"]
+  },
+
   "permissions":    [
     "webRequest",
     "webRequestBlocking",
     "*://*.google.com/*"
-  ],
-  "manifest_version": 2
+  ]
 }
