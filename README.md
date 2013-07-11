@@ -3,6 +3,10 @@ English Please!
 
 Chrome Extension that forces all Google products to use English.
 
+Install
+-------
+[Install via Chrome Web Store](https://chrome.google.com/webstore/detail/english-please/lkhoknaphajfjdcpnllakeglfpbbimhp)
+
 Why?
 ----
 
