@@ -3,8 +3,6 @@ English Please!
 
 Chrome Extension that forces all Google products to use English by setting `hl=en` in all *.google.com urls.
 
-![Google in English](https://lh6.googleusercontent.com/mnF-r0wYVSHeGO5a9G7hqNpjBj_aTwtRqlqveejO0AAoX3r4L4I9w6mzI-_2w-1hq5fuBnDPsA=s640-h400-e365-rw)
-
 Install
 -------
 [Install via Chrome Web Store](https://chrome.google.com/webstore/detail/english-please/lkhoknaphajfjdcpnllakeglfpbbimhp)
